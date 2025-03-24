@@ -9,6 +9,7 @@ memmap2 = "0.9.5"
 parse-size = "1.1.0"
 rand = "0.9.0"
 tempfile = "3.19.1"
+uuid = { version = "1.16.0", features = ["v4"] }
 
 [dev-dependencies]
 criterion = "0.5.1"
